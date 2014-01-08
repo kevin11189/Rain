@@ -21,7 +21,6 @@ public class Game extends Canvas implements Runnable {
 	public static int height = 168;
 	public static int scale = 3;
 	public static String title = "Rain";
-	
 	private Thread thread;
 	private JFrame frame;
 	private Keyboard key;
